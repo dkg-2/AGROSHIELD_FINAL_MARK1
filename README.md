@@ -18,7 +18,7 @@ Agricultural AI solution for crop disease detection and yield optimization.
 - OpenCV
 
 ## 🚀 Try It Out
-👉 **[Live](https://agroshield-final-mark-1.vercel.app/)**
+👉 **[Live]([https://agroshield-final-mark-1-wq1r.vercel.app/])**
 
 
 ## DISEASE DETECTION MODEL COLAB NOTEBOOK
